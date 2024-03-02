@@ -12,7 +12,7 @@ Front-end Developer | UI/UX designer | Flutter Developer | Networking | Security
 * 🌍  I'm based in India
 * ✉️  You can contact me at [nrevanth1205@gmail.com](mailto:nrevanth1205@gmail.com)
 * 🧠  I'm learning DevOps , Full-Stack
-* 🤝  I'm open to collaborating on Full-stack , Flutter developers
+* 🤝  I'm open to collaborating on Full-stack , Flutter Projects
   
 
 ### Skills
