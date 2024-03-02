@@ -1,6 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Revanth
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Revanth
 ===============================================================================================================================
-
+<img align="right" src="https://camo.githubusercontent.com/c3eb20165cbc3421f25084d2513feb89d3765a8e21d514cfce9da3bb41a1b173/68747470733a2f2f7777772e64616d696573746563686e6f6c6f676965732e636f6d2f696d672f70726f6772616d6d65722e676966">
 I am a front-end Developer and UI/UX designer
 ---------------------------------------------
 
